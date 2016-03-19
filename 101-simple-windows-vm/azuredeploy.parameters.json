@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "robstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Paasw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "rob6181"
     }
   }
 }
